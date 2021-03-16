@@ -21,7 +21,4 @@ window.addEventListener('load', function(){
             third.focus();
         }
     });
-    if (typed_characters === max_characters) {
-        end_numbers.focus();
-    }
 });
